@@ -1,1 +1,1 @@
-# 3d-renderer-java
+basic 3d rendering with orthographic projections , simple triangle rasterization , z-buffering and flat shading
